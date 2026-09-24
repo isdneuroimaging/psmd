@@ -1,5 +1,10 @@
 # PSMD (Peak width of Skeletonized Mean Diffusivity)
 
+> [!IMPORTANT]
+> **PSMD has a successor: [DELTA-SVD](https://delta-svd.com).** DELTA-SVD is optimised for longitudinal processing and reports PSMD alongside MSMD and the free-water metric MSFW. This repository is archived and no longer maintained. The PSMD tool, its releases and its container images remain available for ongoing studies and for reproducing published results.
+>
+> PSMD values from DELTA-SVD are **not comparable** with values from this tool. Do not mix both pipelines in one analysis. See [PSMD is now DELTA-SVD](https://delta-svd.com/psmd/).
+
 PSMD is a robust, fully-automated and easy-to-implement marker for cerebral small vessel disease based on diffusion tensor imaging, white matter tract skeletonization (as implemented in FSL-TBSS) and histogram analysis.
 
 > [!CAUTION]
