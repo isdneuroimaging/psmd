@@ -54,8 +54,8 @@ The PSMD script itself is published under the BSD 3-clause license. Please see t
 > [!IMPORTANT]  
 > Please note that an [FSL license](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/Licence) is required to run PSMD, regardless of whether you are using the container or a local installation.
 
+Please consult the [documentation](https://github.com/isdneuroimaging/psmd/wiki#license--referencing) regarding publications to cite when using PSMD. 
+
 ## Support
 
 The PSMD project was initiated at the Institue for Stroke and Dementia Research (ISD), Munich, Germany, with funding support by the LMU FöFoLe program (grant 808), the Else Kröner-Fresenius-Stiftung (EKFS, grant 2014_A200), and the Vascular Dementia Research Foundation.
-
-The ongoing development of PSMD is supported by Medical Image Analysis Center (MIAC AG), Basel, Switzerland.
